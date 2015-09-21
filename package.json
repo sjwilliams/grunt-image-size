@@ -27,6 +27,6 @@
   ],
   "dependencies": {
     "chalk": "^0.5.0",
-    "image-size": "sjwilliams/image-size#/2748ae402"
+    "image-size": "sjwilliams/image-size#2748ae402"
   }
 }
